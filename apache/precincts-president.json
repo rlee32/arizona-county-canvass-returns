@@ -1,0 +1,442 @@
+[
+
+    {
+        "precinct": 2,
+        "registered": 439,
+        "all_votes": [104, 281, 2],
+        "dem": [11, 83, 0],
+        "rep": [90, 191, 2],
+        "lbt": [1, 4, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 3,
+        "registered": 3842,
+        "all_votes": [437, 1885, 3],
+        "dem": [345, 1636, 1],
+        "rep": [83, 188, 2],
+        "lbt": [6, 24, 0],
+        "other": [0, 9, 0]
+    },
+
+    {
+        "precinct": 5,
+        "registered": 1900,
+        "all_votes": [221, 939, 10],
+        "dem": [160, 819, 10],
+        "rep": [51, 97, 0],
+        "lbt": [8, 12, 0],
+        "other": [0, 3, 0]
+    },
+
+    {
+        "precinct": 9,
+        "registered": 2189,
+        "all_votes": [459, 1374, 18],
+        "dem": [26, 305, 2],
+        "rep": [424, 1046, 16],
+        "lbt": [6, 16, 0],
+        "other": [1, 1, 0]
+    },
+
+    {
+        "precinct": 10,
+        "registered": 717,
+        "all_votes": [179, 305, 5],
+        "dem": [136, 253, 4],
+        "rep": [36, 39, 1],
+        "lbt": [3, 1, 0],
+        "other": [0, 3, 0]
+    },
+
+    {
+        "precinct": 11,
+        "registered": 1329,
+        "all_votes": [264, 584, 12],
+        "dem": [226, 510, 12],
+        "rep": [31, 56, 0],
+        "lbt": [1, 4, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 12,
+        "registered": 1044,
+        "all_votes": [261, 596, 11],
+        "dem": [12, 99, 0],
+        "rep": [244, 491, 11],
+        "lbt": [1, 3, 0],
+        "other": [0, 2, 0]
+    },
+
+    {
+        "precinct": 13,
+        "registered": 1135,
+        "all_votes": [352, 310, 8],
+        "dem": [285, 269, 6],
+        "rep": [56, 32, 2],
+        "lbt": [4, 3, 0],
+        "other": [1, 0, 0]
+    },
+
+    {
+        "precinct": 16,
+        "registered": 1207,
+        "all_votes": [274, 775, 0],
+        "dem": [19, 140, 0],
+        "rep": [250, 612, 0],
+        "lbt": [4, 20, 0],
+        "other": [1, 0, 0]
+    },
+
+    {
+        "precinct": 17,
+        "registered": 975,
+        "all_votes": [273, 536, 2],
+        "dem": [10, 95, 0],
+        "rep": [257, 425, 2],
+        "lbt": [2, 9, 0],
+        "other": [1, 1, 0]
+    },
+
+    {
+        "precinct": 19,
+        "registered": 3303,
+        "all_votes": [488, 1893, 39],
+        "dem": [321, 1588, 31],
+        "rep": [153, 256, 7],
+        "lbt": [7, 22, 1],
+        "other": [3, 6, 0]
+    },
+
+    {
+        "precinct": 22,
+        "registered": 748,
+        "all_votes": [145, 345, 7],
+        "dem": [117, 294, 5],
+        "rep": [26, 37, 2],
+        "lbt": [0, 6, 0],
+        "other": [1, 2, 0]
+    },
+
+    {
+        "precinct": 23,
+        "registered": 1242,
+        "all_votes": [268, 504, 15],
+        "dem": [211, 426, 10],
+        "rep": [54, 60, 5],
+        "lbt": [1, 3, 0],
+        "other": [1, 3, 0]
+    },
+
+    {
+        "precinct": 25,
+        "registered": 140,
+        "all_votes": [38, 93, 2],
+        "dem": [8, 34, 0],
+        "rep": [30, 59, 2],
+        "lbt": [0, 0, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 27,
+        "registered": 1105,
+        "all_votes": [228, 506, 15],
+        "dem": [140, 403, 5],
+        "rep": [79, 81, 8],
+        "lbt": [4, 9, 0],
+        "other": [0, 2, 0]
+    },
+
+    {
+        "precinct": 29,
+        "registered": 1029,
+        "all_votes": [368, 284, 19],
+        "dem": [325, 252, 14],
+        "rep": [35, 22, 4],
+        "lbt": [1, 2, 0],
+        "other": [1, 0, 0]
+    },
+
+    {
+        "precinct": 31,
+        "registered": 816,
+        "all_votes": [217, 347, 5],
+        "dem": [145, 286, 5],
+        "rep": [65, 44, 0],
+        "lbt": [2, 4, 0],
+        "other": [0, 3, 0]
+    },
+
+    {
+        "precinct": 33,
+        "registered": 1825,
+        "all_votes": [429, 585, 20],
+        "dem": [363, 511, 15],
+        "rep": [50, 48, 5],
+        "lbt": [3, 8, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 35,
+        "registered": 647,
+        "all_votes": [150, 249, 15],
+        "dem": [109, 202, 10],
+        "rep": [35, 35, 4],
+        "lbt": [3, 4, 0],
+        "other": [0, 1, 0]
+    },
+
+    {
+        "precinct": 37,
+        "registered": 220,
+        "all_votes": [71, 43, 4],
+        "dem": [52, 31, 2],
+        "rep": [16, 11, 2],
+        "lbt": [1, 1, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 39,
+        "registered": 1930,
+        "all_votes": [275, 892, 11],
+        "dem": [233, 789, 8],
+        "rep": [35, 86, 2],
+        "lbt": [3, 9, 0],
+        "other": [1, 1, 0]
+    },
+
+    {
+        "precinct": 41,
+        "registered": 292,
+        "all_votes": [55, 107, 3],
+        "dem": [37, 95, 3],
+        "rep": [18, 11, 0],
+        "lbt": [0, 1, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 43,
+        "registered": 1029,
+        "all_votes": [223, 462, 11],
+        "dem": [165, 383, 6],
+        "rep": [51, 56, 3],
+        "lbt": [1, 7, 1],
+        "other": [0, 1, 1]
+    },
+
+    {
+        "precinct": 45,
+        "registered": 345,
+        "all_votes": [43, 263, 1],
+        "dem": [7, 72, 0],
+        "rep": [36, 188, 1],
+        "lbt": [0, 2, 0],
+        "other": [0, 1, 0]
+    },
+
+    {
+        "precinct": 46,
+        "registered": 444,
+        "all_votes": [87, 243, 4],
+        "dem": [68, 210, 4],
+        "rep": [19, 23, 0],
+        "lbt": [0, 5, 0],
+        "other": [0, 1, 0]
+    },
+
+    {
+        "precinct": 48,
+        "registered": 1423,
+        "all_votes": [309, 762, 19],
+        "dem": [176, 536, 12],
+        "rep": [124, 196, 7],
+        "lbt": [4, 9, 0],
+        "other": [0, 6, 0]
+    },
+
+    {
+        "precinct": 51,
+        "registered": 458,
+        "all_votes": [64, 137, 2],
+        "dem": [52, 120, 1],
+        "rep": [10, 15, 1],
+        "lbt": [0, 2, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 52,
+        "registered": 975,
+        "all_votes": [283, 206, 9],
+        "dem": [157, 152, 8],
+        "rep": [119, 47, 1],
+        "lbt": [5, 3, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 54,
+        "registered": 1493,
+        "all_votes": [432, 510, 8],
+        "dem": [356, 440, 6],
+        "rep": [60, 49, 2],
+        "lbt": [10, 11, 0],
+        "other": [2, 1, 0]
+    },
+
+    {
+        "precinct": 56,
+        "registered": 855,
+        "all_votes": [227, 353, 19],
+        "dem": [200, 312, 14],
+        "rep": [17, 38, 2],
+        "lbt": [2, 1, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 58,
+        "registered": 996,
+        "all_votes": [297, 334, 16],
+        "dem": [262, 290, 14],
+        "rep": [27, 32, 2],
+        "lbt": [2, 4, 0],
+        "other": [1, 0, 0]
+    },
+
+    {
+        "precinct": 59,
+        "registered": 801,
+        "all_votes": [245, 418, 4],
+        "dem": [15, 77, 0],
+        "rep": [227, 327, 4],
+        "lbt": [3, 8, 0],
+        "other": [0, 1, 0]
+    },
+
+    {
+        "precinct": 61,
+        "registered": 1443,
+        "all_votes": [358, 775, 1],
+        "dem": [50, 186, 0],
+        "rep": [300, 572, 1],
+        "lbt": [5, 8, 0],
+        "other": [1, 5, 0]
+    },
+
+    {
+        "precinct": 65,
+        "registered": 2253,
+        "all_votes": [379, 1142, 23],
+        "dem": [283, 963, 19],
+        "rep": [71, 141, 4],
+        "lbt": [6, 24, 0],
+        "other": [3, 3, 0]
+    },
+
+    {
+        "precinct": 67,
+        "registered": 799,
+        "all_votes": [198, 370, 23],
+        "dem": [151, 311, 18],
+        "rep": [38, 43, 4],
+        "lbt": [4, 6, 0],
+        "other": [0, 0, 1]
+    },
+
+    {
+        "precinct": 70,
+        "registered": 1049,
+        "all_votes": [281, 560, 1],
+        "dem": [22, 137, 0],
+        "rep": [252, 413, 1],
+        "lbt": [4, 6, 0],
+        "other": [1, 1, 0]
+    },
+
+    {
+        "precinct": 74,
+        "registered": 1289,
+        "all_votes": [284, 572, 1],
+        "dem": [234, 501, 1],
+        "rep": [42, 51, 0],
+        "lbt": [1, 4, 0],
+        "other": [1, 2, 0]
+    },
+
+    {
+        "precinct": 76,
+        "registered": 719,
+        "all_votes": [185, 210, 9],
+        "dem": [132, 175, 5],
+        "rep": [46, 26, 4],
+        "lbt": [1, 5, 0],
+        "other": [1, 0, 0]
+    },
+
+    {
+        "precinct": 78,
+        "registered": 585,
+        "all_votes": [132, 206, 1],
+        "dem": [111, 183, 0],
+        "rep": [18, 16, 1],
+        "lbt": [0, 1, 0],
+        "other": [0, 0, 0]
+    },
+
+    {
+        "precinct": 80,
+        "registered": 950,
+        "all_votes": [184, 363, 4],
+        "dem": [136, 296, 4],
+        "rep": [43, 58, 0],
+        "lbt": [1, 4, 0],
+        "other": [1, 0, 0]
+    },
+
+    {
+        "precinct": 82,
+        "registered": 1623,
+        "all_votes": [321, 1071, 9],
+        "dem": [19, 217, 2],
+        "rep": [298, 835, 7],
+        "lbt": [1, 13, 0],
+        "other": [1, 1, 0]
+    },
+
+    {
+        "precinct": 84,
+        "registered": 1698,
+        "all_votes": [403, 670, 20],
+        "dem": [353, 619, 16],
+        "rep": [39, 38, 2],
+        "lbt": [5, 5, 0],
+        "other": [1, 1, 0]
+    },
+
+    {
+        "precinct": 86,
+        "registered": 726,
+        "all_votes": [162, 340, 12],
+        "dem": [135, 281, 9],
+        "rep": [21, 46, 3],
+        "lbt": [1, 2, 0],
+        "other": [0, 1, 0]
+    },
+
+    {
+        "precinct": 88,
+        "registered": 1879,
+        "all_votes": [248, 1040, 12],
+        "dem": [164, 879, 12],
+        "rep": [77, 125, 0],
+        "lbt": [5, 16, 0],
+        "other": [0, 8, 0]
+    }
+]
