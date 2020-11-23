@@ -24,10 +24,12 @@ Each candidate's votes are segregated by vote type, and listed as a sequence of 
 
 [election, early, provisional]
 
-'election': on election day.
-'early': early voting.
-'provisional': provisional ballots.
+- 'election': on election day.
+- 'early': early voting.
+- 'provisional': provisional ballots.
 
-'registered': total number of registered voters (NOT votes).
-'precinct': ID of precinct, if this tally applies to 1 precinct.
-'all_votes': element-wise sum of all candidates' votes, including overvotes and undervotes, e.g. [election, early, provisional] across all candidates. Because of the inclusion of overvotes and undervotes in all_votes, these will not match exactly the sum across all candidates in the JSON.
+Other keys in addition to the candidates' keys are:
+
+- 'registered': total number of registered voters (NOT votes).
+- 'precinct': ID of precinct, if this tally applies to 1 precinct.
+- 'all_votes': element-wise sum of all candidates' votes, including overvotes and undervotes, e.g. [election, early, provisional] across all candidates. Because of the inclusion of overvotes and undervotes in all_votes, these will not match exactly the sum across all candidates in the JSON.
